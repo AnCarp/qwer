@@ -1,0 +1,68 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "laji01_11a27589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - jingtai",
+            "request": "launch",
+            "mainClass": "jingtai",
+            "projectName": "laji01_11a27589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - jiecheng",
+            "request": "launch",
+            "mainClass": "jiecheng",
+            "projectName": "laji01_11a27589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Scan",
+            "request": "launch",
+            "mainClass": "Scan",
+            "projectName": "laji01_11a27589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FUCK",
+            "request": "launch",
+            "mainClass": "FUCK",
+            "projectName": "laji01_11a27589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - softwareOne",
+            "request": "launch",
+            "mainClass": "softwareOne"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - softwareOne",
+            "request": "launch",
+            "mainClass": "fuyaojun.laji01.softwareOne"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-test",
+            "request": "launch",
+            "mainClass": "fuyaojun.laji01.test"
+        }
+    ]
+}
